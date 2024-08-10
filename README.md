@@ -1,2 +1,3 @@
 # patagoniseMountainSkylines
-A mountain image styliser that takes an image and converts it to a Patagonina style logo
+
+*Patagonise* is a Python tool that turns mountain images into stylised designs, inspired by the Patagonia logo. Originally made for a van conversion, it’s was used for creating woodcarving templates.
